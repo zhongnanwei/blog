@@ -242,11 +242,11 @@ var config_default = defineConfig4CustomTheme({
       {
         choosen: "gitalk",
         options: {
-          clientID: "a6e1355287947096b88b",
-          clientSecret: "f0e77d070fabfcd5af95bebb82b2d574d7248d71",
-          repo: "blog-gitalk-comment",
-          owner: "Arthas",
-          admin: ["Arthas"],
+          clientID: "968a8750a257bf58b966",
+          clientSecret: "4e9fef06545be1d6aed2b87b72031e8bc2fb05fd",
+          repo: "blog",
+          owner: "zhongnanwei",
+          admin: ["zhongnanwei"],
           pagerDirection: "last",
           id: "<%- (frontmatter.permalink || frontmatter.to.path).slice(-16) %>",
           title: "\u300C\u8BC4\u8BBA\u300D<%- frontmatter.title %>",
