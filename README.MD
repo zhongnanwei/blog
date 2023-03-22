@@ -1,15 +1,12 @@
 
 ## 博客出处 
   https://github.com/xugaoyi/vuepress-theme-vdoing.git
-  
+
 ## 快速上手
 
 ```bash
 # clone the project
-git clone https://github.com/xugaoyi/vuepress-theme-vdoing.git
-
-# enter the project directory
-cd vuepress-theme-vdoing
+git clone 
 
 # install dependency
 npm install # or yarn install
