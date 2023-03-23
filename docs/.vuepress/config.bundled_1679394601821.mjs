@@ -149,8 +149,8 @@ var config_default = defineConfig4CustomTheme({
     },
     extendFrontmatter: {
       author: {
-        name: "xugaoyi",
-        link: "https://github.com/xugaoyi"
+        name: "Arthas",
+        link: "https://github.com/zhongnanwei"
       }
     },
     htmlModules: htmlModules_default
