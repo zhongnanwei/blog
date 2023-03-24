@@ -22,7 +22,7 @@ git remote add origin https://github.com/zhongnanwei/zhongnanwei.github.io.git
 # git init
 git add -A
 git commit -m "deploy, $commit_info"
-git push -f 
+git push --set-upstream origin master
 
 cd -
 rm -rf $dist_path
