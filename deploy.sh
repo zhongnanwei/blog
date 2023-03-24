@@ -18,7 +18,7 @@ cd docs/.vuepress/dist/
 git remote remove origin
 git remote add origin https://github.com/zhongnanwei/zhongnanwei.github.io.git
 
-git add -A 
+git add . 
 git commit -m "deploy, $commit_info"
 git push --set-upstream origin main --force
 
