@@ -5,14 +5,6 @@
   "author": {
     "name": "Arthas"
   },
-  "homepage": "https://github.com/xugaoyi/vuepress-theme-vdoing#readme",
-  "bugs": {
-    "url": "https://github.com/xugaoyi/vuepress-theme-vdoing/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xugaoyi/vuepress-theme-vdoing.git"
-  },
   "keywords": [
     "documentation",
     "vue",
