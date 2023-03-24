@@ -16,13 +16,12 @@ push_branch=gh-pages # 推送的分支
 # 进入生成的文件夹
 cd docs/.vuepress/dist/
 
-# git remote remove origin
+git remote remove origin
 git remote add origin https://github.com/zhongnanwei/zhongnanwei.github.io.git
 
-# git init
 git add -A
 git commit -m "deploy, $commit_info"
-git push --set-upstream origin master
+git push --set-upstream origin main
 
 cd -
 rm -rf $dist_path
