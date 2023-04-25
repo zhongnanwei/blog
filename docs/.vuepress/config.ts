@@ -42,22 +42,17 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
                     {
                         text: "学习笔记",
                         items: [
-                            { text: "《JavaScript教程》", link: "/note/javascript/" },
-                            { text: "《JavaScript高级程序设计》", link: "/note/js/" },
-                            { text: "《ES6 教程》", link: "/note/es6/" },
-                            { text: "《Vue》", link: "/note/vue/" },
-                            { text: "《React》", link: "/note/react/" },
                             {
-                                text: "《TypeScript 从零实现 axios》",
-                                link: "/note/typescript-axios/",
-                            },
-                            {
-                                text: "《Git》",
-                                link: "/note/git/",
+                                text: "《JavaScript高级程序设计》笔记",
+                                link: "/note/js/",
                             },
                             {
                                 text: "TypeScript",
                                 link: "/pages/51afd6/",
+                            },
+                            {
+                                text: "小程序笔记",
+                                link: "/note/wx-miniprogram/",
                             },
                             {
                                 text: "JS设计模式总结",
@@ -99,6 +94,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
                     { text: "学习", link: "/pages/f2a556/" },
                     { text: "面试", link: "/pages/aea6571b7a8bae86/" },
                     { text: "心情杂货", link: "/pages/2d615df9a36a98ed/" },
+                    {text:'实战例子',link:'/pages/208522/'},
                     { text: "实用技巧", link: "/pages/baaa02/" },
                 ],
             },
